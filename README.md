@@ -1,0 +1,2 @@
+# plentymarkets-plugin
+plugins
